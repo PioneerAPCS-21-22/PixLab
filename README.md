@@ -23,7 +23,7 @@ If using an IDE on your computer such as BlueJ, Eclipse, IntelliJ, etc., downloa
 On Eclipse, IntelliJ, or VS Code, you may need to have the images in the project folder outside of your src files where the .java files are.
 
 If using Repl.it:
-* Go to my [PixLab project](https://repl.it/@codyjking/PixLab) and click the blue "Fork" button.
+* Go to my [PixLab project](https://replit.com/@codyjking/PixLab-Master) and click the blue "Fork" button.
 * When you edit a file, you can compile it by typing `javac <filename>` in the console and then hitting enter. For example, if you change the image in `PictureExplorer`, compile by typing `javac PictureExplorer.java`.
 * To run, type `java <classname>` and then hit enter. For example, if you want to run `ColorChooser.java`, type `java ColorChooser` (don't include the .java). If you close the program and the orange arrow doesn't show up again, click inside the console and press `CTRL-C`.
 
